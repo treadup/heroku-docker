@@ -6,5 +6,8 @@
   "repository": "git@github.com:treadup/heroku-docker.git",
   "author": "Henrik Treadup <henrik.treadup@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "showdown": "^1.9.0"
+  }
 }
