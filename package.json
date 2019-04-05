@@ -1,0 +1,10 @@
+{
+  "name": "heroku-docker",
+  "version": "1.0.0",
+  "description": "Build and deploy a Docker image to Heroku",
+  "main": "index.js",
+  "repository": "git@github.com:treadup/heroku-docker.git",
+  "author": "Henrik Treadup <henrik.treadup@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
